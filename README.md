@@ -1,5 +1,3 @@
-![Tayem — Computer Engineering at the University of Ottawa](banner.svg?v=2)
-
 # Hi, I'm Tayem Al-Tamimi
 
 I'm a first-year Computer Engineering student at the University of Ottawa, developing my skills in C programming, algorithms, and software development.
