@@ -2,8 +2,6 @@
 
 I'm a first-year **Computer Engineering student at the University of Ottawa**, learning how to turn ideas into programs that actually work.
 
-Currently writing C, getting better at debugging, and discovering just how much one missing semicolon can change your day. I'm looking for undergraduate research opportunities where I can contribute and keep learning.
-
 [Want to connect? You can find me here!](#find-me-here)
 
 ## My Toolkit 🧑🏻‍💻
