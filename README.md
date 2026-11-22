@@ -8,7 +8,7 @@ I'm a first-year **Computer Engineering student at the University of Ottawa**, l
 
 > <sub>C, Python, Java, Git, GitHub, Visual Studio Code</sub>
 
-My university coursework in my portfolio currently focuses on C, with an emphasis on understanding how programs work and testing their behavior.
+My university coursework in my portfolio currently focuses on C, Java and Python, with an emphasis on understanding how programs work and testing their behavior.
 
 ## What I'm Curious About 🧐
 
