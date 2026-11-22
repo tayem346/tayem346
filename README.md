@@ -10,6 +10,8 @@ Currently writing C, getting better at debugging, and discovering just how much 
 
 <img src="https://skillicons.dev/icons?i=c,python,java,git,github,vscode&amp;theme=dark" alt="C, Python, Java, Git, GitHub, and Visual Studio Code logos" height="64">
 
+> <sub>C, Python, Java, Git, GitHub, Visual Studio Code</sub>
+
 | Area | Languages, tools, and concepts |
 |---|---|
 | Programming | C, Python, Java |
