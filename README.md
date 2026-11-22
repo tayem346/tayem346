@@ -1,8 +1,10 @@
-# Hi, I'm Tayem Al-Tamimi
+# Hey, I'm Tayem Al-Tamimi
 
-I'm a first-year **Computer Engineering student at the University of Ottawa**, building my skills in programming, algorithms, and software development. I'm interested in undergraduate research opportunities where I can contribute, learn, and develop practical experience.
+I'm a first-year **Computer Engineering student at the University of Ottawa**, learning how to turn ideas into programs that actually work.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/tayemaltamimi/)
+Currently writing C, getting better at debugging, and discovering just how much one missing semicolon can change your day. I'm looking for undergraduate research opportunities where I can contribute and keep learning.
+
+[Let's connect](#lets-connect)
 
 ## Education
 
@@ -14,9 +16,9 @@ Relevant coursework: Introduction to Computing, Linear Algebra, Calculus, and En
 **Choueifat (SABIS)**  
 High School Diploma · Graduated with Distinction, 2026
 
-## Technical Skills
+## My Toolkit
 
-<img src="c.svg" alt="C programming" width="64" height="64">
+<img src="profile-assets/toolkit.svg" alt="My toolkit: C, Python, Java, Git, GitHub, and VS Code" width="600">
 
 | Area | Languages, tools, and concepts |
 |---|---|
@@ -27,7 +29,7 @@ High School Diploma · Graduated with Distinction, 2026
 
 My coursework portfolio currently focuses on C, with an emphasis on understanding how programs work and testing their behavior.
 
-## Selected Coursework
+## Things I've Been Building
 
 | Project | What I worked on |
 |---|---|
@@ -38,7 +40,7 @@ My coursework portfolio currently focuses on C, with an emphasis on understandin
 
 Coursework solutions are maintained in a private repository. These exercises include course-provided material and completed implementations; attribution and limitations are documented alongside the code where confirmed.
 
-## Research Interests
+## What I'm Curious About
 
 I'm interested in exploring **artificial intelligence, cybersecurity, and software engineering**. These are areas I want to learn more about through coursework, projects, and undergraduate research.
 
@@ -55,8 +57,17 @@ I'm interested in exploring **artificial intelligence, cybersecurity, and softwa
 
 **Arabic:** Native · **English:** Native · **French:** Professional working proficiency
 
-## Currently Working On
+## What I'm Up To
 
 - Improving input validation and handling edge cases.
 - Testing my programs and documenting their limitations.
 - Building a stronger foundation in algorithms and software development.
+
+One working program at a time.
+
+
+## Let's Connect
+
+Interested in research, programming, or exchanging project ideas? Click the LinkedIn logo below.
+
+<a href="https://www.linkedin.com/in/tayemaltamimi/"><img src="profile-assets/linkedin.svg" alt="Connect with Tayem Al-Tamimi on LinkedIn" width="64" height="64"></a>
