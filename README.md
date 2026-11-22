@@ -68,6 +68,6 @@ One working program at a time.
 
 ## Find me here!
 
-Interested in research, programming, or exchanging project ideas? Click the LinkedIn logo below.
+Interested in research, programming, or exchanging project ideas? Click below!
 
 <a href="https://www.linkedin.com/in/tayemaltamimi/"><img src="profile-assets/linkedin.svg" alt="Connect with Tayem Al-Tamimi on LinkedIn" width="64" height="64"></a>
