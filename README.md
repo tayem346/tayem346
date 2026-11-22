@@ -10,7 +10,7 @@ I'm a first-year **Computer Engineering student at the University of Ottawa**, l
 
 My university coursework in my portfolio currently focuses on C, with an emphasis on understanding how programs work and testing their behavior.
 
-**Feel free to Check out what I've been working on!**
+## **Feel free to Check out what I've been working on!**
 
 Coursework solutions are maintained in a private repository. These exercises include course-provided material and completed implementations; attribution and limitations are documented alongside the code where confirmed.
 
