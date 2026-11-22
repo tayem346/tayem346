@@ -1,4 +1,4 @@
-![Tayem — Computer Engineering at the University of Ottawa](assets/banner.svg)
+![Tayem — Computer Engineering at the University of Ottawa](banner.svg)
 
 # Hi, I'm Tayem
 
@@ -6,7 +6,7 @@ I'm a first-year Computer Engineering student at the University of Ottawa, devel
 
 ## What I'm Learning
 
-<img src="assets/c.svg" alt="C programming" width="64" height="64">
+<img src="c.svg" alt="C programming" width="64" height="64">
 
 **C programming** · Arrays and pointers · Structures · Searching and sorting · Numerical methods
 
