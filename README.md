@@ -27,6 +27,7 @@ I'm interested in exploring **artificial intelligence, cybersecurity, and softwa
 
 ## What I'm Up To
 
+- Currently working through DataCamp's [Python Data Fundamentals](https://app.datacamp.com/learn/skill-tracks/python-data-fundamentals) skill track to build my Python and data analysis foundations.
 - Improving input validation and handling edge cases.
 - Testing my programs and documenting their limitations.
 - Building a stronger foundation in algorithms and software development.
