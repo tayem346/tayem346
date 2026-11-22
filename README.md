@@ -1,4 +1,4 @@
-![Tayem — Computer Engineering at the University of Ottawa](banner.svg)
+![Tayem — Computer Engineering at the University of Ottawa](banner.svg?v=2)
 
 # Hi, I'm Tayem
 
