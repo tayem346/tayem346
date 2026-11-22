@@ -12,13 +12,6 @@ Currently writing C, getting better at debugging, and discovering just how much 
 
 > <sub>C, Python, Java, Git, GitHub, Visual Studio Code</sub>
 
-| Area | Languages, tools, and concepts |
-|---|---|
-| Programming | C, Python, Java |
-| Development tools | Git, GitHub, Visual Studio Code |
-| Foundations | Algorithms, arrays, pointers, structures, numerical computation, debugging |
-| Other software | Microsoft Excel, Adobe Photoshop, Adobe Premiere Pro |
-
 My university coursework in my portfolio currently focuses on C, with an emphasis on understanding how programs work and testing their behavior.
 
 ## Things I've Been Building! 🛠️
