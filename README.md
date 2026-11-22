@@ -4,7 +4,7 @@ I'm a first-year **Computer Engineering student at the University of Ottawa**, l
 
 Currently writing C, getting better at debugging, and discovering just how much one missing semicolon can change your day. I'm looking for undergraduate research opportunities where I can contribute and keep learning.
 
-[Let's connect](#lets-connect)
+[Want to connect? You can find me here!](#lets-connect)
 
 ## Education
 
@@ -66,7 +66,7 @@ I'm interested in exploring **artificial intelligence, cybersecurity, and softwa
 One working program at a time.
 
 
-## Let's Connect
+## Find me here!
 
 Interested in research, programming, or exchanging project ideas? Click the LinkedIn logo below.
 
