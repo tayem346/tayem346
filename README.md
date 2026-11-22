@@ -4,7 +4,7 @@ I'm a first-year **Computer Engineering student at the University of Ottawa**, l
 
 Currently writing C, getting better at debugging, and discovering just how much one missing semicolon can change your day. I'm looking for undergraduate research opportunities where I can contribute and keep learning.
 
-[Want to connect? You can find me here!](#lets-connect)
+[Want to connect? You can find me here!](#find-me-here)
 
 ## Education
 
@@ -18,7 +18,7 @@ High School Diploma · Graduated with Distinction, 2026
 
 ## My Toolkit
 
-<img src="profile-assets/toolkit.svg" alt="My toolkit: C, Python, Java, Git, GitHub, and VS Code" width="600">
+<img src="https://skillicons.dev/icons?i=c,python,java,git,github,vscode&amp;theme=dark" alt="C, Python, Java, Git, GitHub, and Visual Studio Code logos" height="64">
 
 | Area | Languages, tools, and concepts |
 |---|---|
@@ -70,4 +70,4 @@ One working program at a time.
 
 Interested in research, programming, or exchanging project ideas? Click below!
 
-<a href="https://www.linkedin.com/in/tayemaltamimi/"><img src="profile-assets/linkedin.svg" alt="Connect with Tayem Al-Tamimi on LinkedIn" width="64" height="64"></a>
+<a href="https://www.linkedin.com/in/tayemaltamimi/"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" alt="Connect with Tayem Al-Tamimi on LinkedIn" width="64" height="64"></a>
