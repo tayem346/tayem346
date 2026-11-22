@@ -10,14 +10,7 @@ I'm a first-year **Computer Engineering student at the University of Ottawa**, l
 
 My university coursework in my portfolio currently focuses on C, with an emphasis on understanding how programs work and testing their behavior.
 
-## Things I've Been Building! 🛠️
-
-| Project | What I worked on |
-|---|---|
-| **Student Record Analysis and Sorting** | Processing 20 simulated student records, calculating assessment averages and weighted grades, and implementing bubble sort with ten sorting modes in ascending or descending order. |
-| **Trigonometric Function Approximation** | Using iterative Taylor series to approximate sine and cosine, then calculating tangent with a near-zero cosine check. Large-angle handling and numerical reliability are still being improved. |
-| **Circular Array Shifting** | Rotating integer sequences using loops, reusable functions, and pointer-based parameter passing. |
-| **Geometry Programs** | Sorting circles, checking overlap, calculating triangle perimeters, and working with structures. |
+**Feel free to Check out what I've been working on!**
 
 Coursework solutions are maintained in a private repository. These exercises include course-provided material and completed implementations; attribution and limitations are documented alongside the code where confirmed.
 
