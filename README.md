@@ -1,4 +1,4 @@
-# Hey, I'm Tayem Al-Tamimi
+# Hey there, I'm Tayem! 👋
 
 I'm a first-year **Computer Engineering student at the University of Ottawa**, learning how to turn ideas into programs that actually work.
 
