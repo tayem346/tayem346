@@ -2,8 +2,6 @@
 
 I'm a first-year **Computer Engineering student at the University of Ottawa**, learning how to turn ideas into programs that actually work.
 
-[Want to connect? You can find me here!](#find-me-here)
-
 ## My Toolkit 🧑🏻‍💻
 
 <img src="https://skillicons.dev/icons?i=c,python,java,git,github,vscode&amp;theme=dark" alt="C, Python, Java, Git, GitHub, and Visual Studio Code logos" height="64">
